@@ -1,0 +1,484 @@
+Using Device: cpu
+Profundidad: 0.00m, PK: 0.00
+Profundidad: 0.00m, PK: 0.00
+Profundidad: 0.00m, PK: 0.00
+Profundidad: 0.00m, PK: 0.00
+Profundidad: 0.00m, PK: 0.00
+Profundidad: 0.00m, PK: 0.00
+Profundidad: 0.00m, PK: 0.00
+Profundidad: 0.00m, PK: 0.00
+Profundidad: 0.00m, PK: 0.00
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.68 metros
+Profundidad: 0.68m, PK: 9.32
+Profundidad: 0.68m, PK: 9.32
+Profundidad: 0.68m, PK: 9.32
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.68 metros
+Profundidad: 0.68m, PK: 9.32
+Profundidad: 0.68m, PK: 9.32
+Profundidad: 0.68m, PK: 9.32
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.6841463414634147 metros
+Profundidad: 0.68m, PK: 9.32
+Profundidad: 0.68m, PK: 9.32
+Profundidad: 0.68m, PK: 9.32
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.7301518438177874 metros
+Profundidad: 0.73m, PK: 9.27
+Profundidad: 0.73m, PK: 9.27
+Profundidad: 0.73m, PK: 9.27
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.8697674418604652 metros
+Profundidad: 0.87m, PK: 9.13
+Profundidad: 0.87m, PK: 9.13
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.9535410764872522 metros
+Profundidad: 0.95m, PK: 9.05
+Profundidad: 0.95m, PK: 9.05
+Profundidad: 0.95m, PK: 9.05
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.9784883720930233 metros
+Profundidad: 0.98m, PK: 9.02
+Profundidad: 0.98m, PK: 9.02
+Profundidad: 0.98m, PK: 9.02
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.9856515373352855 metros
+Profundidad: 0.99m, PK: 9.01
+Profundidad: 0.99m, PK: 9.01
+Profundidad: 0.99m, PK: 9.01
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 1.0017857142857143 metros
+Profundidad: 1.00m, PK: 9.00
+Profundidad: 1.00m, PK: 9.00
+Profundidad: 1.00m, PK: 9.00
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 1.0372881355932204 metros
+Profundidad: 1.04m, PK: 8.96
+Profundidad: 1.04m, PK: 8.96
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 1.0893203883495146 metros
+Profundidad: 1.09m, PK: 8.91
+Profundidad: 1.09m, PK: 8.91
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 1.1164179104477612 metros
+Profundidad: 1.12m, PK: 8.88
+Profundidad: 1.12m, PK: 8.88
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 1.1893992932862192 metros
+Profundidad: 1.19m, PK: 8.81
+Profundidad: 1.19m, PK: 8.81
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 1.2654135338345867 metros
+Profundidad: 1.27m, PK: 8.73
+Profundidad: 1.27m, PK: 8.73
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 1.3304347826086957 metros
+Profundidad: 1.33m, PK: 8.67
+Profundidad: 1.33m, PK: 8.67
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 1.3710794297352342 metros
+Profundidad: 1.37m, PK: 8.63
+Profundidad: 1.37m, PK: 8.63
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 1.3995841995841998 metros
+Profundidad: 1.40m, PK: 8.60
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+Velocidad: 23.14796189636411 km/h
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 1.0469673405909798 metros
+Profundidad: 1.05m, PK: 12.95
+Profundidad: 1.05m, PK: 12.95
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 1.1626943005181347 metros
+Profundidad: 1.16m, PK: 12.84
+Profundidad: 1.16m, PK: 12.84
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 1.2151624548736464 metros
+Profundidad: 1.22m, PK: 12.78
+Profundidad: 1.22m, PK: 12.78
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 1.2217785843920146 metros
+Profundidad: 1.22m, PK: 12.78
+Profundidad: 1.22m, PK: 12.78
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 1.2420664206642067 metros
+Profundidad: 1.24m, PK: 12.76
+Profundidad: 1.24m, PK: 12.76
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 1.31484375 metros
+Profundidad: 1.31m, PK: 12.69
+Profundidad: 1.31m, PK: 12.69
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 1.3795081967213116 metros
+Profundidad: 1.38m, PK: 12.62
+Profundidad: 1.38m, PK: 12.62
+Profundidad: 1.38m, PK: 12.62
+Profundidad: 1.38m, PK: 12.62
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+Velocidad: 76.0575890880535 km/h
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.8023837902264601 metros
+Profundidad: 0.80m, PK: 9.20
+Profundidad: 0.80m, PK: 9.20
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+Velocidad: 76.0575890880535 km/h
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.8140266021765418 metros
+Profundidad: 0.81m, PK: 9.19
+Profundidad: 0.81m, PK: 9.19
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+Velocidad: 66.55039045204681 km/h
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.8150121065375303 metros
+Profundidad: 0.82m, PK: 9.18
+Profundidad: 0.82m, PK: 9.18
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+Velocidad: 66.55039045204681 km/h
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.8140266021765418 metros
+Profundidad: 0.81m, PK: 9.19
+Profundidad: 0.81m, PK: 9.19
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+Velocidad: 59.15590262404161 km/h
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.8043010752688172 metros
+Profundidad: 0.80m, PK: 9.20
+Profundidad: 0.80m, PK: 9.20
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+Velocidad: 59.15590262404161 km/h
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.7086315789473685 metros
+Profundidad: 0.71m, PK: 9.29
+Profundidad: 0.71m, PK: 9.29
+Using Device: cpu
+Using Device: cpu
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.7737931034482759 metros
+Profundidad: 0.77m, PK: 9.23
+Profundidad: 0.77m, PK: 9.23
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.881151832460733 metros
+Profundidad: 0.88m, PK: 9.12
+Profundidad: 0.88m, PK: 9.12
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.9221917808219179 metros
+Profundidad: 0.92m, PK: 9.08
+Profundidad: 0.92m, PK: 9.08
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.9311203319502075 metros
+Profundidad: 0.93m, PK: 9.07
+Profundidad: 0.93m, PK: 9.07
+Profundidad: 0.93m, PK: 9.07
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.9298342541436465 metros
+Profundidad: 0.93m, PK: 9.07
+Profundidad: 0.93m, PK: 9.07
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.9285517241379311 metros
+Profundidad: 0.93m, PK: 9.07
+Profundidad: 0.93m, PK: 9.07
+Profundidad: 0.93m, PK: 9.07
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.9247252747252748 metros
+Profundidad: 0.92m, PK: 9.08
+Profundidad: 0.92m, PK: 9.08
+Profundidad: 0.92m, PK: 9.08
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.9234567901234568 metros
+Profundidad: 0.92m, PK: 9.08
+Profundidad: 0.92m, PK: 9.08
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.9234567901234568 metros
+Profundidad: 0.92m, PK: 9.08
+Profundidad: 0.92m, PK: 9.08
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.9234567901234568 metros
+Profundidad: 0.92m, PK: 9.08
+Profundidad: 0.92m, PK: 9.08
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.9221917808219179 metros
+Profundidad: 0.92m, PK: 9.08
+Profundidad: 0.92m, PK: 9.08
+Profundidad: 0.92m, PK: 9.08
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+Velocidad: 53.24031236163745 km/h
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.8071942446043165 metros
+Profundidad: 0.81m, PK: 13.19
+Profundidad: 0.81m, PK: 13.19
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.8342007434944239 metros
+Profundidad: 0.83m, PK: 13.17
+Profundidad: 0.83m, PK: 13.17
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.8352357320099256 metros
+Profundidad: 0.84m, PK: 13.16
+Profundidad: 0.84m, PK: 13.16
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.8425531914893618 metros
+Profundidad: 0.84m, PK: 13.16
+Profundidad: 0.84m, PK: 13.16
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.8373134328358209 metros
+Profundidad: 0.84m, PK: 13.16
+Profundidad: 0.84m, PK: 13.16
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.8311111111111111 metros
+Profundidad: 0.83m, PK: 13.17
+Profundidad: 0.83m, PK: 13.17
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.821978021978022 metros
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Profundidad: 0.82m, PK: 13.18
+Object ID: 14.0, Longitude: 40.519105581236595, Latitude: -3.8801884774552593
+Velocidad: 121.33813245652212 km/h
+el gps ahora es: (40.519105581236595, -3.8801884774552593)
+Profundidad estimada para id14.0: 1.1893992932862192 metros
+Profundidad: 1.19m, PK: 4.81
+Profundidad: 1.19m, PK: 4.81
+Object ID: 14.0, Longitude: 40.519105581236595, Latitude: -3.8801884774552593
+el gps ahora es: (40.519105581236595, -3.8801884774552593)
+Profundidad estimada para id14.0: 1.1873015873015873 metros
+Profundidad: 1.19m, PK: 4.81
+Profundidad: 1.19m, PK: 4.81
+Profundidad: 1.19m, PK: 4.81
+Profundidad: 1.19m, PK: 4.81
+Using Device: cpu
+Profundidad: 0.00m, PK: 0.00
+Profundidad: 0.00m, PK: 0.00
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.8892998678996038 metros
+Profundidad: 0.89m, PK: 13.11
+Profundidad: 0.89m, PK: 13.11
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.9146739130434783 metros
+Profundidad: 0.91m, PK: 13.09
+Profundidad: 0.91m, PK: 13.09
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.9402234636871509 metros
+Profundidad: 0.94m, PK: 13.06
+Profundidad: 0.94m, PK: 13.06
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.935 metros
+Profundidad: 0.94m, PK: 13.06
+Profundidad: 0.94m, PK: 13.06
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.9234567901234568 metros
+Profundidad: 0.92m, PK: 13.08
+Profundidad: 0.92m, PK: 13.08
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.9363004172461753 metros
+Profundidad: 0.94m, PK: 13.06
+Profundidad: 0.94m, PK: 13.06
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.9376044568245125 metros
+Profundidad: 0.94m, PK: 13.06
+Profundidad: 0.94m, PK: 13.06
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.942857142857143 metros
+Profundidad: 0.94m, PK: 13.06
+Profundidad: 0.94m, PK: 13.06
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.9221917808219179 metros
+Profundidad: 0.92m, PK: 13.08
+Profundidad: 0.92m, PK: 13.08
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.8777053455019558 metros
+Profundidad: 0.88m, PK: 13.12
+Profundidad: 0.88m, PK: 13.12
+Profundidad: 0.88m, PK: 13.12
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.843609022556391 metros
+Profundidad: 0.84m, PK: 13.16
+Profundidad: 0.84m, PK: 13.16
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.8846254927726676 metros
+Profundidad: 0.88m, PK: 13.12
+Profundidad: 0.88m, PK: 13.12
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.9024128686327079 metros
+Profundidad: 0.90m, PK: 13.10
+Profundidad: 0.90m, PK: 13.10
+Profundidad: 0.90m, PK: 13.10
+Profundidad: 0.90m, PK: 13.10
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.9121951219512195 metros
+Profundidad: 0.91m, PK: 13.09
+Profundidad: 0.91m, PK: 13.09
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.9196721311475411 metros
+Profundidad: 0.92m, PK: 13.08
+Profundidad: 0.92m, PK: 13.08
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.9184174624829469 metros
+Profundidad: 0.92m, PK: 13.08
+Profundidad: 0.92m, PK: 13.08
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.9196721311475411 metros
+Profundidad: 0.92m, PK: 13.08
+Profundidad: 0.92m, PK: 13.08
+Profundidad: 0.92m, PK: 13.08
+Profundidad: 0.92m, PK: 13.08
+Profundidad: 0.92m, PK: 13.08
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.9714285714285715 metros
+Profundidad: 0.97m, PK: 13.03
+Profundidad: 0.97m, PK: 13.03
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.9784883720930233 metros
+Profundidad: 0.98m, PK: 13.02
+Profundidad: 0.98m, PK: 13.02
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 0.9900000000000001 metros
+Profundidad: 0.99m, PK: 13.01
+Profundidad: 0.99m, PK: 13.01
+Profundidad: 0.99m, PK: 13.01
+Profundidad: 0.99m, PK: 13.01
+Profundidad: 0.99m, PK: 13.01
+Profundidad: 0.99m, PK: 13.01
+Profundidad: 0.99m, PK: 13.01
+Profundidad: 0.99m, PK: 13.01
+Profundidad: 0.99m, PK: 13.01
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 1.038888888888889 metros
+Profundidad: 1.04m, PK: 12.96
+Profundidad: 1.04m, PK: 12.96
+Profundidad: 1.04m, PK: 12.96
+Profundidad: 1.04m, PK: 12.96
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 1.0184568835098335 metros
+Profundidad: 1.02m, PK: 12.98
+Profundidad: 1.02m, PK: 12.98
+Profundidad: 1.02m, PK: 12.98
+Profundidad: 1.02m, PK: 12.98
+Profundidad: 1.02m, PK: 12.98
+Object ID: 15.0, Longitude: 40.52303663236828, Latitude: -3.8822913293417534
+el gps ahora es: (40.52303663236828, -3.8822913293417534)
+Profundidad estimada para id15.0: 1.0231003039513678 metros
+Profundidad: 1.02m, PK: 12.98
+Profundidad: 1.02m, PK: 12.98
+Profundidad: 1.02m, PK: 12.98
+Profundidad: 1.02m, PK: 12.98
+Profundidad: 1.02m, PK: 12.98
+Profundidad: 1.02m, PK: 12.98
+Starting Camera
+Starting Camera
+Using Device: cpu
+Profundidad: 0.00m, PK: 0.00
+Profundidad: 0.00m, PK: 0.00
+Profundidad: 0.00m, PK: 0.00
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.8415 metros
+Profundidad: 0.84m, PK: 9.16
+Profundidad: 0.84m, PK: 9.16
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.8532319391634982 metros
+Profundidad: 0.85m, PK: 9.15
+Profundidad: 0.85m, PK: 9.15
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.8554002541296062 metros
+Profundidad: 0.86m, PK: 9.14
+Profundidad: 0.86m, PK: 9.14
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.857579617834395 metros
+Profundidad: 0.86m, PK: 9.14
+Profundidad: 0.86m, PK: 9.14
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.8554002541296062 metros
+Profundidad: 0.86m, PK: 9.14
+Profundidad: 0.86m, PK: 9.14
+Object ID: 13.0, Longitude: 40.52425994149647, Latitude: -3.8829779748557103
+el gps ahora es: (40.52425994149647, -3.8829779748557103)
+Profundidad estimada para id13.0: 0.8554002541296062 metros
+Profundidad: 0.86m, PK: 9.14
+Profundidad: 0.86m, PK: 9.14
+Profundidad: 0.86m, PK: 9.14
+Using Device: cpu
+Using Device: cpu
